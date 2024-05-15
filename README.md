@@ -29,7 +29,7 @@ No installation required. Simply open the website in your web browser.
 
 ## Live Demo
 
-You can try the calculator live at [Calculator Website](https://example.com/calculator).
+You can try the calculator live at [Calculator Website](http://calswift.com).
 
 ## Contributing
 
