@@ -132,7 +132,7 @@ button#equal {
   }
   
   /* Style the button used to pause/play the video */
-  #myBtn {
+  /*#myBtn {
     width: 80px;
     font-size: 14px;
     padding: 10px;
@@ -145,4 +145,4 @@ button#equal {
   #myBtn:hover {
     background: #ddd;
     color: black;
-  }
+  }  
