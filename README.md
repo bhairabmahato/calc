@@ -1,5 +1,5 @@
 
-<h1># calc</h1>
+<h1># calcswift</h1>
 # Calculator Website
 
 This is a simple and efficient calculator website designed for quick calculations.
